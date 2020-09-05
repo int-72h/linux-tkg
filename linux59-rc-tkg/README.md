@@ -25,7 +25,6 @@ You can enable support for it at the beginning of the PKGBUILD file. Make sure t
 - **optional** ZFS fpu symbols
 
 
-## Install procedure
 
 ## Install procedure
 
